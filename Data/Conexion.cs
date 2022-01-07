@@ -10,7 +10,7 @@ namespace Practice_20220107.Data
         SqlConnection conn;
         public Conexion()
         {
-            conn = new SqlConnection("Server=tcp:curso-net.database.windows.net,1433;Initial Catalog=Practice_20220107;Persist Security Info=False;User ID=******;Password=******;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+            conn = new SqlConnection([INSERTAR CONNECTION STRING AQUI]);
         }
 
         public SqlConnection Conectar()
