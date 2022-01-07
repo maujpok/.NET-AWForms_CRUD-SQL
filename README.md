@@ -1,4 +1,4 @@
-# CRUD-en-C-SQL-Server
+# CRUD-en-CSharp-con-SQL-Server
 
 
 Mi primera aplicación C# con SLQ Server!
