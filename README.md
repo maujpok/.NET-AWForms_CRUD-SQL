@@ -1,4 +1,4 @@
-# CRUD-en-CSharp-con-SQL-Server
+# .NET AWForms - CRUD+SQL
 
 
 Mi primera aplicación C# con SLQ Server!
